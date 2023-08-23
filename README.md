@@ -1,7 +1,7 @@
 # LGMVIP-Java-Task-Number-3
 
 
-Technologies Required - Java, Java Swing, Java AWT, and OOPS
+Technologies Used - Java, Java Swing, Java AWT, and OOPS
 
 Project Description
 
